@@ -1,1 +1,2 @@
 The ground truth files.
+For the images which don't have ground-truth files in this directory, manually create empty text files in the appropriate naming format.
